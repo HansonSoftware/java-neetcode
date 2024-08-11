@@ -6,10 +6,6 @@ import static org.junit.Assert.assertFalse;
 import org.junit.Test;
 
 /**
- * Unit tests for Contains Duplicate
- */
-
-/**
  * ValidAnagramTest
  */
 public class ValidAnagramTest {
